@@ -19,6 +19,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [CSS](#css)
   - [Dart](#dart)
   - [English](#english)
+  - [Elixir](#elixir-lang)
   - [Erlang](#erlang)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -87,6 +88,12 @@ This project is not closed to actual static analyzers. With this repository we i
 
 - [alex](https://github.com/wooorm/alex) - Linter to help catch insensitive writing in English. Written in Javascript.
 - [proselint](https://github.com/amperser/proselint) - Linter for English that provides guidelines to make better writing. It has plugins for several editors and is configurable.
+
+### Elixir-lang
+
+- [Dogma](https://github.com/lpil/dogma)
+- [Credo](https://github.com/rrrene/credo)
+- [elixir_linter](https://github.com/SophieDeBenedetto/elixir_linter)
 
 ### Erlang
 
