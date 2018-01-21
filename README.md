@@ -93,7 +93,6 @@ This project is not closed to actual static analyzers. With this repository we i
 
 - [Dogma](https://github.com/lpil/dogma)
 - [Credo](https://github.com/rrrene/credo)
-- [elixir_linter](https://github.com/SophieDeBenedetto/elixir_linter)
 
 ### Erlang
 
